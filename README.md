@@ -16,7 +16,7 @@ The main objective of this phase is to equip me with the necessary tools and kno
 
 
 
-1. **Clone the Repository:** You by cloning this repository to get access to the course materials.
+1. **Clone the Repository:** You can clone this repository
 
 ```bash
 git clone https://github.com/<your-username>/Arewa_data_science.git
